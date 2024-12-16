@@ -273,9 +273,9 @@ a:hover .tooltip,
 .img-box img {
 	position: absolute;
 	display: block;
-	width: 120%;
+	width: 90%;
 	object-fit: cover;
-	/* bottom: 2rem; */
+		/* bottom: 4rem; */
 }
 
 .img-box .about-img {
